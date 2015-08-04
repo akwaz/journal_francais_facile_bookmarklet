@@ -1,2 +1,2 @@
-# journal_francais_facile_bookmarklet
-# Simple bookmarklet, opens yesterday's edition of le journal en francais facile
+# RFI Simple French Journal Bookmarklet
+Simple bookmarklet, opens yesterday's edition of  journal en francais facile
